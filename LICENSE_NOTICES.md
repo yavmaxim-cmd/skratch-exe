@@ -8,4 +8,4 @@
 - The installer was compiled with Inno Setup. Inno Setup copyright Jordan Russell and Martijn Laan. See Inno-Setup-LICENSE.txt.
 - The included demo WAV and built-in demo are synthesized from project code. No commercial music or external recordings are included.
 
-Public redistribution rights for the supplied deck artwork, mixer artwork and logo are pending confirmation.
+The project owner authorized distribution of their artwork in the public beta. The legacy Texturelabs header and third-party reference images are excluded. See the [beta asset provenance report](https://github.com/yavmaxim-cmd/skratch-exe-beta-site/releases/download/v0.9.0-beta.1/ASSET_PROVENANCE.md) for the evidence and scope.
