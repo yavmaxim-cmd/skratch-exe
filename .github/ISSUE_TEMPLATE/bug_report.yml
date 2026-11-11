@@ -1,0 +1,45 @@
+name: Bug report
+description: Report a reproducible issue in a Windows x64 beta.
+title: "[Bug] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: SKRATCH.EXE version and format
+      placeholder: 0.9.0-beta / Instrument VST3
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: DAW version and Windows edition/build
+    validations:
+      required: true
+  - type: input
+    id: audio
+    attributes:
+      label: Audio driver, sample rate, and buffer in samples
+      placeholder: FL Studio ASIO, 48 kHz, 256 samples
+  - type: input
+    id: controller
+    attributes:
+      label: Controller model, connection and input mode
+      placeholder: Xbox Series, USB, XInput (or none)
+  - type: textarea
+    id: repro
+    attributes:
+      label: Minimal reproduction steps
+      description: Start with a blank project and the built-in demo. Include exact actions, notes, settings and frequency of reproduction.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual results
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Optional reviewed diagnostic report or screenshot
+      description: Remove personal data, usernames, paths, project names and private audio before attaching anything.

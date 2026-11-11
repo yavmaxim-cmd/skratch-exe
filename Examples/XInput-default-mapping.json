@@ -1,0 +1,93 @@
+{
+  "format": "SKRATCH.MAPPING.2",
+  "speedCC": 16,
+  "faderCC": 1,
+  "positionCC": 20,
+  "channel": 0,
+  "notes": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63
+  ],
+  "pad": {
+    "device": -1,
+    "platterAxis": 1,
+    "faderAxis": 2,
+    "slowAxis": 4,
+    "fastAxis": 5,
+    "deadzone": 0.12,
+    "sensitivity": 1.0,
+    "curve": 1.5,
+    "maxSpeed": 4.0,
+    "cutIn": 0.04,
+    "invertPlatter": true,
+    "invertFader": false,
+    "binary": false,
+    "enabled": false,
+    "calibration": [
+      [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      [
+        -1.0,
+        0.0,
+        1.0
+      ],
+      [
+        -1.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "buttons": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

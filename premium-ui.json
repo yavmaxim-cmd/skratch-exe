@@ -1,0 +1,11 @@
+{
+  "profile": "native-desktop",
+  "sourceRoots": [
+    "Source"
+  ],
+  "locale": "en-US",
+  "canonicalMap": "UX-CONTRACT.md",
+  "requiredCapabilities": [],
+  "requiredCommands": [],
+  "commands": {}
+}
